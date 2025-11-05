@@ -5,8 +5,13 @@ Scripts and firmware for testing hardware subsystems of GCE filter separation ma
 
 ## Contents
 Filter Alignment ->
+
 Filter Transport ->
+
 Pleat Seperation ->
+
 Comb Insertion ->
+
 Camera Image Detection ->
+
 UI ->
