@@ -1,1 +1,12 @@
 Zephyr RTOS driver for Arducam Mega - https://www.arducam.com/camera-for-any-microcontroller/
+
+
+First two creates virtual environment, the following are libraries.
+If you already create venv, dont run the first line again, just the second
+To run Jupyter Notebook, run the following in the terminal:
+
+py -m venv .venv
+.\.venv\Scripts\activate
+pip install opencv-python
+pip install matplotlib
+pip install scipy
